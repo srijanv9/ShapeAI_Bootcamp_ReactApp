@@ -1,0 +1,22 @@
+.navbar{
+    background-color: blue;
+    color: white;
+    margin:10px;
+    align-self: flex-start;
+    animation-name: initial;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+}
+.mode{
+    background: white;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width:240px;
+    margin: 16px;
+    float: left;
+    position: 'absolute';left: '100%'; top: '50%';
+    transform: 'translate(-50%, -50%)'
+
+
+}
